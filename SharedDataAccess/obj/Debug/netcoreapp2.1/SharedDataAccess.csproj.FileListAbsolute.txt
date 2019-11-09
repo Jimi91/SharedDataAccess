@@ -1,0 +1,6 @@
+D:\TestProekti\GoodApi\ThirdApi\SharedDataAccess\SharedDataAccess\bin\Debug\netcoreapp2.1\SharedDataAccess.deps.json
+D:\TestProekti\GoodApi\ThirdApi\SharedDataAccess\SharedDataAccess\bin\Debug\netcoreapp2.1\SharedDataAccess.dll
+D:\TestProekti\GoodApi\ThirdApi\SharedDataAccess\SharedDataAccess\obj\Debug\netcoreapp2.1\SharedDataAccess.csprojAssemblyReference.cache
+D:\TestProekti\GoodApi\ThirdApi\SharedDataAccess\SharedDataAccess\obj\Debug\netcoreapp2.1\SharedDataAccess.csproj.CoreCompileInputs.cache
+D:\TestProekti\GoodApi\ThirdApi\SharedDataAccess\SharedDataAccess\obj\Debug\netcoreapp2.1\SharedDataAccess.AssemblyInfoInputs.cache
+D:\TestProekti\GoodApi\ThirdApi\SharedDataAccess\SharedDataAccess\obj\Debug\netcoreapp2.1\SharedDataAccess.AssemblyInfo.cs
